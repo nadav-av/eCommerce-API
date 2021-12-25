@@ -1,1 +1,1 @@
-eCommerce RestfulAPI built with Django rest-framework
+eCommerce store RestfulAPI built with Django rest-framework
